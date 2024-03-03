@@ -1,3 +1,15 @@
 :root{
 	background-color:rgb(135, 206, 235);
 }
+p:first-child {
+    color: white;
+    background-color: black;
+}
+/* 
+p:nth-child(2) {
+    /* your styles here */
+} */
+
+p:last-child {
+    color: red;
+}
